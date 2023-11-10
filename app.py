@@ -1,4 +1,4 @@
-import dash
+import dash hii
 import dash_bootstrap_components as dbc
 from dash import html
 from dash.dependencies import Input, Output, State
